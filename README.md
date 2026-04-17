@@ -1,6 +1,7 @@
 # Detonado – D (PSX)
 
 **Fonte:** AcclaimNation  
+**Tradução e adaptação:** Carlos Henrique  
 
 ---
 
